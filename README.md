@@ -1,18 +1,13 @@
-# RemoteControllerCsharp
+# Remote Control
 
-Simple example remote control client/server written in C#. Done using WinForms.
-Requires .NET 4.0 or newer.    
+* Original project from [here](https://github.com/Bediveren/RemoteControllerCsharp)  
+* Requires .NET 4.0 or newer.    
 
-USAGE:  
+* This project is to create application remote support like team viewer,anyedesk, vnc, etc.
+* Remote will control Client and Client send screen to Remote. Remote and Client connected with Server to send and receive data;
 
-* Main window  
-![alt tag](https://cloud.githubusercontent.com/assets/24376768/25250646/27dc6248-261f-11e7-9016-fe4c51ef42df.PNG)  
-
-One client creates server, other connects to the server.
-
-* End result example  
-![alt tag](https://cloud.githubusercontent.com/assets/24376768/25250650/29f0c452-261f-11e7-8c0e-3cc62a34584e.PNG)
 
 Notes:  
-- Mouse movement is disabled by default, to enable it, find ServerHost.cs line 166 and uncomment it.
-- Keyboard input will not loop if both - the server and the client are ran on the same computer. 
+- Still have many bugs.
+- Mouse movement laggy.
+- Sometimes crash.
