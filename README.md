@@ -11,3 +11,4 @@ Notes:
 - Still have many bugs.
 - Mouse movement laggy.
 - Sometimes crash.
+- Confused with server sometimes not sending correct data.
