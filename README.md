@@ -2,7 +2,7 @@
 
 
 
-* Original project from [here](https://github.com/Bediveren/RemoteControllerCsharp)  
+* Got idea from [here](https://github.com/Bediveren/RemoteControllerCsharp)  
 * Requires .NET 4.0 or newer.    
 
 * This project is to create application remote support like team viewer,anyedesk, vnc, etc.
